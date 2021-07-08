@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda5f236b55e9844ba986184b943a1ff, type: 3}
+  m_Name: Palette_NewGamer
+  m_EditorClassIdentifier: 
+  languagesList:
+  - Portuguese
+  - English
+  paletteLocal:
+  - languageID: 0
+    paletteName: "Padr\xE3o"
+    paletteStoreDescription: "\xC9 padr\xE3o"
+  - languageID: 1
+    paletteName: Default
+    paletteStoreDescription: It's default
+  paletteColor:
+  - hexColorCode: {r: 0.4509804, g: 0.2, b: 0.5019608, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: f00b909f02061754787d8490d7a1dbf2, type: 2}
+  - hexColorCode: {r: 0.5686275, g: 0.30980393, b: 0.6509804, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: d2d5543f6043c364494a44be359e5a2a, type: 2}
+  - hexColorCode: {r: 0.85490197, g: 0.5058824, b: 0.70980394, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: 40e4d3ea83abc7e47afb41f8d55d6468, type: 2}
+    - {fileID: 2100000, guid: c807d7a58f868134caf2084cad0fa281, type: 2}
+  - hexColorCode: {r: 1, g: 0.75686276, b: 0.4862745, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: f424fcf3d15b0194d9db141c5be92fa2, type: 2}
+    - {fileID: 2100000, guid: a38c4ba454965504c85eee8d16fc35b7, type: 2}
+  - hexColorCode: {r: 1, g: 0.50980395, b: 0.25882354, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: 613734e19adffa843bb06e71b8303154, type: 2}
+    - {fileID: 2100000, guid: 687a34c9394497d4aa192c484404c660, type: 2}

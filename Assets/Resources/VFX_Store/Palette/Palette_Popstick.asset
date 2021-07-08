@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eda5f236b55e9844ba986184b943a1ff, type: 3}
+  m_Name: Palette_Popstick
+  m_EditorClassIdentifier: 
+  languagesList:
+  - Portuguese
+  - English
+  paletteLocal:
+  - languageID: 0
+    paletteName: Pirulito
+    paletteStoreDescription: bem doce
+  - languageID: 1
+    paletteName: Popstick
+    paletteStoreDescription: very sweet
+  paletteColor:
+  - hexColorCode: {r: 0.9372549, g: 0.23921569, b: 0.34901962, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: 613734e19adffa843bb06e71b8303154, type: 2}
+    - {fileID: 2100000, guid: 687a34c9394497d4aa192c484404c660, type: 2}
+  - hexColorCode: {r: 0.7169812, g: 0.4975693, b: 0.38892847, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: d2d5543f6043c364494a44be359e5a2a, type: 2}
+  - hexColorCode: {r: 0.9372549, g: 0.7882353, b: 0.34509805, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: f424fcf3d15b0194d9db141c5be92fa2, type: 2}
+    - {fileID: 2100000, guid: a38c4ba454965504c85eee8d16fc35b7, type: 2}
+  - hexColorCode: {r: 0.2901961, g: 0.69411767, b: 0.6156863, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: 40e4d3ea83abc7e47afb41f8d55d6468, type: 2}
+    - {fileID: 2100000, guid: c807d7a58f868134caf2084cad0fa281, type: 2}
+  - hexColorCode: {r: 0.20392157, g: 0.30588236, b: 0.36078432, a: 1}
+    materialRespective:
+    - {fileID: 2100000, guid: f00b909f02061754787d8490d7a1dbf2, type: 2}

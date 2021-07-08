@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 889794c411054f7ca8e6fbdc6728c846, type: 3}
+  m_Name: _UIButtonDatabase
+  m_EditorClassIdentifier: 
+  DatabaseType: 0
+  CategoryNames:
+  - Custom
+  - GameOver
+  - General
+  - InGame
+  - Loja
+  - Menu
+  Categories:
+  - {fileID: 11400000, guid: 5303b82e2b6ed5a49a0fa98d43f9f81f, type: 2}
+  - {fileID: 11400000, guid: 4ca838a948558234293fe0bccc210d17, type: 2}
+  - {fileID: 11400000, guid: 4f04de6ecfc6fd742af6001f20498037, type: 2}
+  - {fileID: 11400000, guid: e85057956b3e15d42889568022dd2c28, type: 2}
+  - {fileID: 11400000, guid: 748878be45fb210479ac74195a579d28, type: 2}

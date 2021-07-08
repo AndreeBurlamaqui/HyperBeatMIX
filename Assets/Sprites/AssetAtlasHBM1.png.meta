@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 2ca08b45e6b05434c8c8ad255a82b2d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2552330950024322035
+    second: HBMLogo
+  - first:
+      213: -5919715040607334150
+    second: AssetAtlasHBM1_1
+  - first:
+      213: -1265697774388642767
+    second: AssetAtlasHBM1_2
+  - first:
+      213: 5350306332922004605
+    second: AssetAtlasHBM1_3
+  - first:
+      213: -3908930671046044978
+    second: GameOverScreen
+  - first:
+      213: -8386050818147411457
+    second: AssetAtlasHBM1_5
+  - first:
+      213: 2658699560211284753
+    second: AssetAtlasHBM1_6
+  - first:
+      213: -3559194340971982751
+    second: AssetAtlasHBM1_7
+  - first:
+      213: 5090688571118316370
+    second: AssetAtlasHBM1_8
+  - first:
+      213: -5608933362376501911
+    second: AssetAtlasHBM1_9
+  - first:
+      213: 8193242691697547754
+    second: AssetAtlasHBM1_10
+  - first:
+      213: 7058564420991114186
+    second: AssetAtlasHBM1_11
+  - first:
+      213: 7829008475230976594
+    second: AssetAtlasHBM1_12
+  - first:
+      213: -3793687089743266576
+    second: AssetAtlasHBM1_13
+  - first:
+      213: -239476483894466649
+    second: AssetAtlasHBM1_14
+  - first:
+      213: -2246551764771364487
+    second: AssetAtlasHBM1_15
+  - first:
+      213: -3735214959912907278
+    second: AssetAtlasHBM1_16
+  - first:
+      213: 4249193182731168655
+    second: AssetAtlasHBM1_17
+  - first:
+      213: 5898289538831523691
+    second: AssetAtlasHBM1_18
+  - first:
+      213: 1874551896461483820
+    second: AssetAtlasHBM1_19
+  - first:
+      213: 7511022894465897981
+    second: PhoneWire
+  - first:
+      213: -3845051869132464521
+    second: AssetAtlasHBM1_21
+  - first:
+      213: 2292543425767391344
+    second: AssetAtlasHBM1_22
+  - first:
+      213: -1088755057834664588
+    second: BeatButton
+  - first:
+      213: 2717022213435904160
+    second: AssetAtlasHBM1_24
+  - first:
+      213: 1511982609766368043
+    second: Center
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 2
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameOverScreen
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1207
+        width: 1584
+        height: 2889
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2dbacd340b0c9c0800000000000000
+      internalID: -3908930671046044978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AssetAtlasHBM1_9
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3000
+        width: 415
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96516b603d01922b0800000000000000
+      internalID: -5608933362376501911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PhoneWire
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1565
+        width: 2293
+        height: 665
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 570, y: 0, z: 551, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5577407838c3860800000000000000
+      internalID: 7511022894465897981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeatButton
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 52
+        width: 1151
+        height: 1371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dda5a1b07f3e0f0800000000000000
+      internalID: -1088755057834664588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Center
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 102
+        width: 864
+        height: 850
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2341b93c24abf410800000000000000
+      internalID: 1511982609766368043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HBMLogo
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2404
+        width: 2501
+        height: 1692
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5f69e973bb6320800000000000000
+      internalID: 2552330950024322035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
